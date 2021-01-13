@@ -8,4 +8,4 @@ Single python file.
 
 Requires - pygame
 
-Similar to the stack game, but a 3D verison of it. Simple game. Have some fun.
+Similar to the android stack game, but a 2D verison of it. Simple game. Have some fun.
